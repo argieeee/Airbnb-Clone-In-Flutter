@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "860784918200",
+    "project_id": "my-flutter-project-4ccd3",
+    "storage_bucket": "my-flutter-project-4ccd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860784918200:android:5ac186adc6324b79f7be4d",
+        "android_client_info": {
+          "package_name": "com.example.pardillo_finalproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl6apk3MoW5MobeJldZA5VonzcBXfHzQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860784918200:android:1944836ccf3bb892f7be4d",
+        "android_client_info": {
+          "package_name": "com.example.pardillo_resort"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl6apk3MoW5MobeJldZA5VonzcBXfHzQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860784918200:android:b7f200720a45af05f7be4d",
+        "android_client_info": {
+          "package_name": "com.example.tryproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl6apk3MoW5MobeJldZA5VonzcBXfHzQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
